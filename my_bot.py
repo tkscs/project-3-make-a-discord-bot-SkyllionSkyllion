@@ -16,9 +16,9 @@ def should_i_respond(user_message, user_name):
     return False
   
 def respond(user_message, user_name):
-  global
+  global balance
   file = open("SavedData.txt", "r")
-  
+  file.write
   print (var)
   
   balance = var
